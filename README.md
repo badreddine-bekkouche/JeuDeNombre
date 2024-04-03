@@ -21,7 +21,7 @@ Installation
 - Ouvrez le fichier index.html dans votre navigateur web.
 
 Utilisation
-- Ouvrez le fichier index.html ou rendez-vous sur ce site : 
+- Ouvrez le fichier index.html ou rendez-vous sur ce site : https://badreddine-bekkouche.github.io/JeuDeNombre/site/
 - Entrez votre nom lorsque le jeu vous le demande.
 - Saisissez un nombre entre 0 et 10 lorsque le jeu vous l'indique.
 - Le jeu vous indiquera si votre réponse est correcte ou non.
